@@ -1,2 +1,2 @@
 
-https://docs.google.com/viewer?url=${https://docs.google.com/document/d/e/2PACX-1vTDpS4fKUM1wykCVbeBcvJ75L_EfsnOcdwR8ZxqYzms2_rgjTmwHbwoHTirrIdluzB58_RYMRxxm8gF/pub}
+https://docs.google.com/document/d/e/2PACX-1vTDpS4fKUM1wykCVbeBcvJ75L_EfsnOcdwR8ZxqYzms2_rgjTmwHbwoHTirrIdluzB58_RYMRxxm8gF/pub
