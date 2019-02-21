@@ -1,7 +1,7 @@
 ### Comparative Study between different Machine Learning Algorithms
 The two followed notebook form part of the final exam of Machine learning Bootcamp of KeepCoding.
 
-- Notebook 1: The first notebook connects different categorical variables and the income of a person. 
+- Notebook 1: The first notebook connects different categorical variables in order to predict the income of a person.
       https://nbviewer.jupyter.org/github/chus73/KC_Bootcamp/blob/master/ML/Practica1_v2.ipynb
 
 - Notebook 2: The objective of the second notebook is to predict the price of the Diamant from your physical characteristics.   
@@ -9,10 +9,13 @@ The two followed notebook form part of the final exam of Machine learning Bootca
 
 ## Getting Started
 
-You can download o Clone the Git repository.
+Click over the link in order to view the notebook. 
+Optionally, you can download o Clone the Git repository.
 
 ### Prerequisites
-You need jupyter in order to run the ipynb file. [https://jupyter.org/]
+The link will open nbviewer which is a web application to renders that notebook as a static HTML web page.
+
+If you need to run locally the ipynb file, you will need download jupyter environment. [https://jupyter.org/]
 
 Another option is using colaboratory by Google. [https://colab.research.google.com/notebooks/welcome.ipynb#recent=true]
 
