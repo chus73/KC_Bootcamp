@@ -4,7 +4,7 @@ The two followed notebook form part of the final exam of Machine learning Bootca
 - Notebook 1: The first notebook connects different categorical variables and the income of a person. 
       https://nbviewer.jupyter.org/github/chus73/KC_Bootcamp/blob/master/ML/Practica1_v2.ipynb
 
-- Notebook 2: The objective of the second notebook is to predict the price of the Diamant from your physical characteristics.
+- Notebook 2: The objective of the second notebook is to predict the price of the Diamant from your physical characteristics.   
       https://nbviewer.jupyter.org/github/chus73/KC_Bootcamp/blob/master/ML/Practica2_v2.ipynb
 
 ## Getting Started
