@@ -2,6 +2,8 @@
 The two followed notebook form part of the final exam of Machine learning Bootcamp of KeepCoding.
 
 - Notebook 1: The first notebook connects different categorical variables and the income of a person. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chus73/KC_Bootcamp/master?filepath=ML%2FPractica1_v2.ipynb)
+
 - Notebook 2: The objective of the second notebook is to predict the price of the Diamant from your physical characteristics.
 
 ## Getting Started
