@@ -1,0 +1,52 @@
+version: '3'
+
+services:
+  calendar:
+    build:      
+      context: ./calendar
+      dockerfile: Dockerfile
+    image: api/calendar:v1
+    container_name: api-calendar
+    ports:
+      - "8084:8084"
+    volumes:
+      - ./calendar:/calendar
+      
+  fxcm:
+    build:      
+      context: ./fxcm
+      dockerfile: Dockerfile
+    image: api/fxcm:v1
+    container_name: api-fxcm
+    ports:
+      - "8083:8083"
+    volumes:
+      - ./fxcm:/fxcm
+
+  news:
+    build:      
+      context: ./news
+      dockerfile: Dockerfile
+    image: api/news:v1
+    container_name: api-news
+    ports:
+      - "8082:8082"
+    volumes:
+      - ./news:/news
+      
+  twitter:
+    build:      
+      context: ./twitter
+      dockerfile: Dockerfile
+    image: api/twitter:v1
+    container_name: api-twitter
+    ports:
+      - "8085:8085"
+    volumes:
+      - ./twitter:/twitter
+
+networks:
+  default:
+    external:
+      name: dataavangers_network
+
