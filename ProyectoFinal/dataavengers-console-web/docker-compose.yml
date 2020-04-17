@@ -1,0 +1,12 @@
+version: '3'
+services:
+
+  console-web:
+    image: console-web:v1
+    container_name: console-web
+    build:
+      context: .
+      dockerfile: Dockerfile.web.deploy
+    ports:
+      - 80:80
+      - 8080:8080
