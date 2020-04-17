@@ -1,0 +1,40 @@
+{
+  "login.module.login": "Log in",
+
+  "navigation.component.menu.dashboard":           "Dashboard",
+  "navigation.component.menu.reports":             "Reports",
+  "navigation.component.menu.reports.settlements": "Summary",
+
+  "navigation.component.menu.tables":              "Tables",
+  "navigation.component.menu.tables.merchants":    "Merchants",
+  "navigation.component.menu.tables.sales":        "Sales",
+  "navigation.component.menu.tables.credit":       "Credit",
+  "navigation.component.menu.tables.debit":        "Debit",
+
+  "navigation.component.menu.profile":             "Profile",
+  "navigation.component.menu.settings":            "Settings",
+  "navigation.component.menu.about":               "About",
+  "navigation.component.menu.logout":              "Log out",
+
+  "charts.cardbytype.title":                       "Operations by technology",
+  "charts.cardbybrand.title":                      "Operations by card type",
+  "charts.cardbycurrency.title":                   "Operations by currency",
+  "charts.cardbyauthorization.title":              "Operations by auth codes",
+  "charts.cardOperationsByBrand.title":            "Operations by card type",
+  "charts.merchantsByCountry.title":               "Merchants by country",
+
+  "charts.operationsByBank.title":                 "Operations by bank",
+  "charts.operationsByCategory.title":             "Operations by category",
+  "charts.operationsByOrg.title":                  "Operations by organization",
+  "charts.operationsByPayment.title":              "Operations by payment mode",
+  "charts.averageTicket.title":                    "Ticket operations",
+  "charts.bubble.title":                           "Transactions & ticket average",
+  "charts.cardSettlementTotals.title":             "Settlement totals",
+
+  "tables.merchants.title":                        "Merchants",
+  "tables.sales.title":                            "Sales",
+  "tables.debit.title":                            "Debit operations",
+  "tables.credit.title":                           "Credit operations"
+
+
+}

@@ -1,0 +1,22 @@
+version: '3'
+services:
+
+  console-api:
+    image: console-api:v1
+    container_name: console-api
+    build:
+      context: ./api
+      dockerfile: Dockerfile.api.deploy
+    ports:
+      - 8585:8585
+  
+  console-web:
+    image: console-web:v1
+    container_name: console-web
+    build:
+      context: ./web
+      dockerfile: Dockerfile.web.deploy
+    ports:
+      - 4200:4200
+    depends_on:
+      - console-api

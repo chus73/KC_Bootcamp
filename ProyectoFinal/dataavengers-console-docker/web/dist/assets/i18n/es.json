@@ -1,0 +1,12 @@
+{
+  "login.module.login": "Entrar",
+
+  "navigation.component.menu.dashboard":        "Inicio",
+  "navigation.component.menu.reports":          "Informes",
+  "navigation.component.menu.tables":           "Tablas",
+  "navigation.component.menu.tables.merchants": "Comercios",
+  "navigation.component.menu.tables.sales":     "Ventas",
+  "navigation.component.menu.tables.credit":    "Crédito",
+  "navigation.component.menu.tables.debit":     "Débito"
+
+}
