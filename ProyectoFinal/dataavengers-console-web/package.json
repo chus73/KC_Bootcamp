@@ -43,7 +43,7 @@
     "glyphicons-only-bootstrap": "^1.0.1",
     "hammerjs": "^2.0.8",
     "jquery": "^3.3.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "ng-sidebar": "^8.0.0",
     "ng2-charts": "^2.2.2",
     "ngx-perfect-scrollbar": "^7.2.1",
